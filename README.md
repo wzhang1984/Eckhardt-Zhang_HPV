@@ -1,5 +1,5 @@
 # Eckhardt-Zhang_HPV
-Codes for the paper: Multiple Routes to Oncogenesis are Promoted by the Human Papillomavirus-Host Protein Network
+Code for the paper: Multiple Routes to Oncogenesis are Promoted by the Human Papillomavirus-Host Protein Network
 
 ## Identification of Mutated Genes in Each Tumor
 Genes were classified as wild type (0) or altered (1) in each of the 799 tumors with alterations defined as follows. Most oncogenes (e.g., EGFR) were considered altered (activated) if impacted by a missense mutation, in-frame indel or copy number amplification. For the subset of oncogenes typically altered only by amplification (CCND1, LMO1, MDM2, MDM4, MYC, MYCL, MYCN, NCOA3, NKX2-1 and SKP2), only copy number amplifications were considered as alterations and not SNVs or indels. All other genes including tumor suppressors (e.g., CDKN2A) were considered altered (inactivated) if there was any type of non-silent mutation or a copy number deletion.
